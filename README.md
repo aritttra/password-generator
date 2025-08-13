@@ -6,8 +6,8 @@ It allows you to generate strong and secure passwords instantly, with options to
 ---
 
 ## 📸 Demo
-![Password Generator Screenshot](screenshot.png)  
-*(Replace with an actual screenshot of your app)*
+
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/78e3553c-7690-4e77-8784-7fe7cff267ab" />
 
 ---
 
